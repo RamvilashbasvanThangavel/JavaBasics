@@ -7,5 +7,5 @@ public class Addtion {
 		int add = a+b;
 		System.out.println(add);
 	}
-
+//this is the method 
 }
